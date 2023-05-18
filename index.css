@@ -10,22 +10,36 @@ iframe{
 
 h3 {
   
-color: white
+color: white;
   
 }
 h2 {
   
-color: white
+color: white;
   
 }
 h1 {
   
-color: white
+color: white;
   
 }
-a {
-  
-color: white
-  
+/* unvisited link */
+a:link {
+  color: white;
+}
+
+/* visited link */
+a:visited {
+  color: white;
+}
+
+/* mouse over link */
+a:hover {
+  color: white;
+}
+
+/* selected link */
+a:active {
+  color: white;
 }
 
